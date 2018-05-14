@@ -1,0 +1,875 @@
+[
+    {
+        "num": "341Ф",
+        "category": 0,
+        "travelTime": "3:08",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Москва Киевская",
+            "date": "суббота, 19.05.2018",
+            "time": "00:46",
+            "sortTime": 1526679960,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Кишинэу",
+            "date": "суббота, 19.05.2018",
+            "time": "03:54",
+            "sortTime": 1526691240
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "094Б",
+        "category": 0,
+        "travelTime": "3:04",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Минск-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "02:35",
+            "sortTime": 1526686500,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Одесса-Главная",
+            "date": "суббота, 19.05.2018",
+            "time": "05:39",
+            "sortTime": 1526697540
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "111О",
+        "category": 0,
+        "travelTime": "3:31",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Харьков-Пасс",
+            "date": "суббота, 19.05.2018",
+            "time": "05:18",
+            "sortTime": 1526696280,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Львов",
+            "date": "суббота, 19.05.2018",
+            "time": "08:49",
+            "sortTime": 1526708940
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "073А",
+        "category": 0,
+        "travelTime": "3:49",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Москва Киевская",
+            "date": "суббота, 19.05.2018",
+            "time": "05:33",
+            "sortTime": 1526697180,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Львов",
+            "date": "суббота, 19.05.2018",
+            "time": "09:22",
+            "sortTime": 1526710920
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "065М",
+        "category": 0,
+        "travelTime": "3:19",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Москва Киевская",
+            "date": "суббота, 19.05.2018",
+            "time": "06:16",
+            "sortTime": 1526699760,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Кишинэу",
+            "date": "суббота, 19.05.2018",
+            "time": "09:35",
+            "sortTime": 1526711700
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "715К",
+        "category": 1,
+        "travelTime": "2:18",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "06:52",
+            "sortTime": 1526701920,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Пшемысль",
+            "date": "суббота, 19.05.2018",
+            "time": "09:10",
+            "sortTime": 1526710200
+        },
+        "types": [
+            {
+                "id": "С1",
+                "title": "Сидячий первого класса",
+                "letter": "С1",
+                "places": 8
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "138Д",
+        "category": 0,
+        "travelTime": "3:29",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Лисичанск",
+            "date": "суббота, 19.05.2018",
+            "time": "07:00",
+            "sortTime": 1526702400,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Хмельницкий",
+            "date": "суббота, 19.05.2018",
+            "time": "10:29",
+            "sortTime": 1526714940
+        },
+        "types": [
+            {
+                "id": "Л",
+                "title": "Люкс",
+                "letter": "Л",
+                "places": 8
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "047Ь",
+        "category": 0,
+        "travelTime": "3:02",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Москва Киевская",
+            "date": "суббота, 19.05.2018",
+            "time": "09:36",
+            "sortTime": 1526711760,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Кишинэу",
+            "date": "суббота, 19.05.2018",
+            "time": "12:38",
+            "sortTime": 1526722680
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "779О",
+        "category": 0,
+        "travelTime": "2:59",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Сумы",
+            "date": "суббота, 19.05.2018",
+            "time": "10:09",
+            "sortTime": 1526713740,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Винница",
+            "date": "суббота, 19.05.2018",
+            "time": "13:08",
+            "sortTime": 1526724480
+        },
+        "types": [
+            {
+                "id": "С1",
+                "title": "Сидячий первого класса",
+                "letter": "С1",
+                "places": 30
+            },
+            {
+                "id": "С2",
+                "title": "Сидячий второго класса",
+                "letter": "С2",
+                "places": 88
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "023М",
+        "category": 0,
+        "travelTime": "3:11",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Москва Киевская",
+            "date": "суббота, 19.05.2018",
+            "time": "10:16",
+            "sortTime": 1526714160,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Одесса-Главная",
+            "date": "суббота, 19.05.2018",
+            "time": "13:27",
+            "sortTime": 1526725620
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "827К",
+        "category": 0,
+        "travelTime": "3:58",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "14:15",
+            "sortTime": 1526728500,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Жмеринка",
+            "date": "суббота, 19.05.2018",
+            "time": "18:13",
+            "sortTime": 1526742780
+        },
+        "types": [
+            {
+                "id": "С3",
+                "title": "Сидячий третьего класса",
+                "letter": "С3",
+                "places": 687
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "357К",
+        "category": 0,
+        "travelTime": "3:03",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "14:34",
+            "sortTime": 1526729640,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Рахов",
+            "date": "суббота, 19.05.2018",
+            "time": "17:37",
+            "sortTime": 1526740620
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "769К",
+        "category": 0,
+        "travelTime": "3:09",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "16:07",
+            "sortTime": 1526735220,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Каменец-Подольский",
+            "date": "суббота, 19.05.2018",
+            "time": "19:16",
+            "sortTime": 1526746560
+        },
+        "types": [
+            {
+                "id": "С2",
+                "title": "Сидячий второго класса",
+                "letter": "С2",
+                "places": 1
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "763Л",
+        "category": 1,
+        "travelTime": "2:19",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "16:35",
+            "sortTime": 1526736900,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Одесса-Главная",
+            "date": "суббота, 19.05.2018",
+            "time": "18:54",
+            "sortTime": 1526745240
+        },
+        "types": [
+            {
+                "id": "С1",
+                "title": "Сидячий первого класса",
+                "letter": "С1",
+                "places": 108
+            },
+            {
+                "id": "С2",
+                "title": "Сидячий второго класса",
+                "letter": "С2",
+                "places": 203
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "013Д",
+        "category": 0,
+        "travelTime": "3:26",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "16:42",
+            "sortTime": 1526737320,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Чоп",
+            "date": "суббота, 19.05.2018",
+            "time": "20:08",
+            "sortTime": 1526749680
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "013К",
+        "category": 0,
+        "travelTime": "3:26",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "16:42",
+            "sortTime": 1526737320,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Солотвино 1",
+            "date": "суббота, 19.05.2018",
+            "time": "20:08",
+            "sortTime": 1526749680
+        },
+        "types": [
+            {
+                "id": "Л",
+                "title": "Люкс",
+                "letter": "Л",
+                "places": 2
+            },
+            {
+                "id": "К",
+                "title": "Купе",
+                "letter": "К",
+                "places": 1
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "145К",
+        "category": 0,
+        "travelTime": "3:25",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "17:40",
+            "sortTime": 1526740800,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Измаил",
+            "date": "суббота, 19.05.2018",
+            "time": "21:05",
+            "sortTime": 1526753100
+        },
+        "types": [
+            {
+                "id": "К",
+                "title": "Купе",
+                "letter": "К",
+                "places": 1
+            },
+            {
+                "id": "П",
+                "title": "Плацкарт",
+                "letter": "П",
+                "places": 1
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "117К",
+        "category": 0,
+        "travelTime": "2:56",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "20:05",
+            "sortTime": 1526749500,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Черновцы",
+            "date": "суббота, 19.05.2018",
+            "time": "23:01",
+            "sortTime": 1526760060
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "049К",
+        "category": 0,
+        "travelTime": "2:59",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "20:12",
+            "sortTime": 1526749920,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Трускавец",
+            "date": "суббота, 19.05.2018",
+            "time": "23:11",
+            "sortTime": 1526760660
+        },
+        "types": [
+            {
+                "id": "К",
+                "title": "Купе",
+                "letter": "К",
+                "places": 35
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "143К",
+        "category": 0,
+        "travelTime": "3:10",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "20:19",
+            "sortTime": 1526750340,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Ворохта",
+            "date": "суббота, 19.05.2018",
+            "time": "23:29",
+            "sortTime": 1526761740
+        },
+        "types": [],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "081К",
+        "category": 0,
+        "travelTime": "3:08",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "21:02",
+            "sortTime": 1526752920,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Ужгород",
+            "date": "воскресенье, 20.05.2018",
+            "time": "00:10",
+            "sortTime": 1526764200
+        },
+        "types": [
+            {
+                "id": "Л",
+                "title": "Люкс",
+                "letter": "Л",
+                "places": 2
+            },
+            {
+                "id": "К",
+                "title": "Купе",
+                "letter": "К",
+                "places": 1
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "105К",
+        "category": 0,
+        "travelTime": "3:08",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "21:15",
+            "sortTime": 1526753700,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Одесса-Главная",
+            "date": "воскресенье, 20.05.2018",
+            "time": "00:23",
+            "sortTime": 1526764980
+        },
+        "types": [
+            {
+                "id": "Л",
+                "title": "Люкс",
+                "letter": "Л",
+                "places": 1
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    },
+    {
+        "num": "771Л",
+        "category": 3,
+        "travelTime": "2:57",
+        "from": {
+            "code": "2200001",
+            "station": "Киев-Пассажирский",
+            "stationTrain": "Киев-Пассажирский",
+            "date": "суббота, 19.05.2018",
+            "time": "23:42",
+            "sortTime": 1526762520,
+            "srcDate": "2018-05-19"
+        },
+        "to": {
+            "code": "2200200",
+            "station": "Винница",
+            "stationTrain": "Хмельницкий",
+            "date": "воскресенье, 20.05.2018",
+            "time": "02:39",
+            "sortTime": 1526773140
+        },
+        "types": [
+            {
+                "id": "С2",
+                "title": "Сидячий второго класса",
+                "letter": "С2",
+                "places": 180
+            }
+        ],
+        "child": {
+            "minDate": "2004-05-20",
+            "maxDate": "2018-05-12"
+        },
+        "allowStudent": 1,
+        "allowBooking": 1,
+        "allowRoundtrip": 1,
+        "isCis": 0,
+        "isEurope": 0,
+        "allowPrivilege": 0
+    }
+]

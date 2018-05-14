@@ -8,36 +8,37 @@
   <label>Время</label>
   <input class="form-control" name="time" [(ngModel)]="ticket.time" />
   <button class="btn btn-default" (click)="submit()">Отправить</button>
-  </div>
-  <p>Результат</p>
-  <button (click)="test()">Test</button>
-  <p>{{all}}</p>
-  <!-- <select>
+</div>
+<p>Результат</p>
+<button (click)="test()">Test</button>
+<p>{{all}}</p>
+<!-- <select>
     <option *ngFor='let station of stations'>{{station.name}}</option>
   </select> -->
 
 
-  <!-- <div>
-    <form>
-      <mat-form-field class="example-full-width">
-        <input type="text" placeholder="Откуда" matInput [formControl]="myForm" [matAutocomplete]="auto">
-        <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
-          <mat-option *ngFor="let stationa of fromStations | async" [value]="stationa.name">
-            {{ stationa.name }}
-          </mat-option>
-        </mat-autocomplete>
-      </mat-form-field>
-    </form>
-  </div>
-  <div>
-    <form>
-      <mat-form-field class="example-full-width">
-        <input type="text" placeholder="Куда" matInput [formControl]="myForm2" [matAutocomplete]="auto">
-        <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
-          <mat-option *ngFor="let station of toStations | async" [value]="station.name">
-            {{ station.name }}
-          </mat-option>
-        </mat-autocomplete>
-      </mat-form-field>
-    </form>
-  </div> -->
+<div>
+  <form>
+    <mat-form-field>
+      <input type="text" placeholder="Откуда" matInput [formControl]="myForm" [matAutocomplete]="auto1" (keyup)="onKey($event)">
+      <mat-autocomplete autoActiveFirstOption #auto1="matAutocomplete">
+        <mat-option *ngFor="let station of fromStations | async" [value]="station.name">
+          {{ station.name }}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+    
+    <mat-form-field>
+      <input type="text" placeholder="Куда" matInput [formControl]="myForm2" [matAutocomplete]="auto2" (keyup)="onKey($event)">
+      <mat-autocomplete autoActiveFirstOption #auto2="matAutocomplete">
+        <mat-option *ngFor="let station of toStations | async" [value]="station.name">
+          {{ station.name }}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+  </form>
+</div>
+
+
+<p>With JSON pipe:</p>
+<pre>{{data | json}}</pre>
