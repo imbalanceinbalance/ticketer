@@ -8,13 +8,16 @@ import { MatAutocompleteModule } from '@angular/material/autocomplete';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatInputModule} from '@angular/material/input';
 import {MatTableModule} from '@angular/material/table';
+import { TestComponent } from './components/test/test.component';
+import { JsonpModule } from '@angular/http';
 
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    FirstComponent
+    FirstComponent,
+    TestComponent
   ],
   imports: [
     BrowserModule,
@@ -24,7 +27,8 @@ import {MatTableModule} from '@angular/material/table';
     MatAutocompleteModule,
     MatInputModule,
     MatTableModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    JsonpModule
 
   ],
   providers: [],
